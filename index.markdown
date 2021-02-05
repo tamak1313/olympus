@@ -4,3 +4,6 @@
 
 layout: home
 ---
+
+倉田サイトですー
+![teacher](images/kura)
