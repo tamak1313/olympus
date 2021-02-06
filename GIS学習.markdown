@@ -14,6 +14,6 @@ GISについて学びたい方はこちら
 
 - [x] GIS初心者
 
-- [] GEE
+- [ ] GEE
 
-- [] Python
+- [ ] Python
