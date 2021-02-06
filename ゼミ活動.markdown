@@ -1,0 +1,7 @@
+---
+layout: page
+title: ゼミ活動
+permalink: /history/
+---
+
+ブーン

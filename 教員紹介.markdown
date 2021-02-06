@@ -1,0 +1,7 @@
+---
+layout: page
+title: 教員紹介
+permalink: /teacher/
+---
+
+画像が載せられないなー
